@@ -1,6 +1,6 @@
 # Site
 title:              David Duan
-bio:                'University of Toronto, CS 2026'
+bio:                'University of Waterloo, CS 2022'
 description:        "This is the personal website for David Duan."
 reading_time:       false
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo-1.svg'
 background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-# url:                https://davidduan12.github.io
+# url:                https://rootofallevii.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -31,13 +31,13 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-# google:
-#   #plus:            #username
-#   analytics:        UA-128601282-1
-email:              davidduan04@gmail.com
-github-url:         davidduan12
-bitbucket:          last-whisper
-linkedin:           david--ky-duan
+google:
+  #plus:            #username
+  analytics:        UA-128601282-1
+email:              j32duan@gmail.com
+github-url:         rootofallevii
+bitbucket:          rootofallevii
+linkedin:           david-duan
 
 # Gems
 gems:
